@@ -1,0 +1,14 @@
+account_number,debtor_name,phone_number,balance,status,client_name
+10001,John Smith,+1-202-555-0101,1240.55,Active,Atlas Capital
+10002,Sarah Johnson,+1-202-555-0102,0.00,Paid,Atlas Capital
+10003,Miguel Garcia,+1-202-555-0103,450.10,Active,Atlas Capital
+10004,Aisha Khan,+1-202-555-0104,980.00,In Collections,Atlas Capital
+10005,Chen Wei,+1-202-555-0105,75.25,Active,Atlas Capital
+10006,Emily Davis,+1-202-555-0106,12345.67,Active,Atlas Capital
+10007,Robert Brown,+1-202-555-0107,15.00,Disputed,Atlas Capital
+10008,Priya Patel,+1-202-555-0108,250.00,Active,Atlas Capital
+10009,Alex Kim,+1-202-555-0109,600.00,Closed,Atlas Capital
+10010,Fatima Ali,+1-202-555-0110,33.33,Active,Atlas Capital
+10003,Miguel Garcia,+1-202-555-0199,475.10,Active,Atlas Capital
+,Missing Account,+1-202-555-0111,99.99,Active,Atlas Capital
+10012,Bad Balance,+1-202-555-0112,not_a_number,Active,Atlas Capital
