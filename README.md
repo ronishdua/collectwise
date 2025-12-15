@@ -128,29 +128,6 @@ GET /accounts?account_number=10001
 
 ---
 
-## Public Access (ngrok)
-
-To expose the API publicly without deploying:
-
-1. Start the server:
-```bash
-npm run start
-```
-
-2. In a separate terminal:
-```bash
-ngrok http 3000
-```
-
-3. Use the generated public HTTPS URL:
-```bash
-https://<ngrok-id>.ngrok-free.app/accounts/10001
-```
-
-This URL can be shared for external testing.
-
----
-
 ## Notes
 
 - The ingestion script can be run multiple times as new CSVs are provided.
